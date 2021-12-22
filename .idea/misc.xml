@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/GitHub/ChatApp/app/src/main/res/layout/activity_chat.xml" value="0.25416666666666665" />
+        <entry key="..\:/GitHub/ChatApp/app/src/main/res/layout/item_container_received_message.xml" value="0.25416666666666665" />
+        <entry key="..\:/GitHub/ChatApp/app/src/main/res/layout/item_container_send_message.xml" value="0.25416666666666665" />
         <entry key="..\:/Java/ChatApp/app/src/main/res/drawable-anydpi/ic_actionButton.xml" value="0.14635416666666667" />
         <entry key="..\:/Java/ChatApp/app/src/main/res/drawable-anydpi/ic_action_button.xml" value="0.2546875" />
         <entry key="..\:/Java/ChatApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2546875" />
